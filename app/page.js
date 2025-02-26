@@ -91,7 +91,7 @@ export default function Home() {
             <ul>
               {students.map((student) => (
                 <li key={student.id}>
-                  <strong>{student.name}</strong> - Grade: {student.grade}
+                  <strong>{student.name}</strong> - Course: {student.course}
                 </li>
               ))}
             </ul>
