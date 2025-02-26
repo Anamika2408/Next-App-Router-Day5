@@ -1,0 +1,42 @@
+{
+  "teachers": [
+    { "id": 1, "name": "Anuradha", "subject": "Mathematics" },
+    { "id": 2, "name": "Anurag", "subject": "Computer Science" },
+    { "id": 3, "name": "Ramakishore", "subject": "Physics" },
+    { "id": 4, "name": "Anjana", "subject": "Chemistry" },
+    { "id": 5, "name": "Reena", "subject": "Computer Science" }
+  ],
+  "students": [
+    { "id": 1, "name": "Anamika", "age": 22, "course": "B.Sc. CS", "teacherId": 1},
+    { "id": 2, "name": "Swati", "age": 22, "course": "MCA","teacherId": 2 },
+    { "id": 3, "name": "Aniket", "age": 21, "course": "B Tech.","teacherId": 3 },
+    { "id": 4, "name": "Roopam", "age": 21, "course": "B.Sc. CS","teacherId": 4 },
+    { "id": 5, "name": "Chirag", "age": 22, "course": "MCA","teacherId": 5 },
+    { "id": 6, "name": "Rashi", "age": 22, "course": "B Tech.","teacherId": 1 },
+    { "id": 7, "name": "Ankit", "age": 20, "course": "B Tech.","teacherId": 2 },
+    { "id": 8, "name": "Varun", "age": 21, "course": "B Tech.","teacherId": 3 },
+    { "id": 9, "name": "Mritunjay", "age": 22, "course": "MCA","teacherId": 4 },
+    { "id": 10, "name": "Maulik", "age": 20, "course": "B Tech.","teacherId": 5 },
+    { "id": 11, "name": "Vaibhav", "age": 22, "course": "MCA","teacherId": 1 },
+    { "id": 12, "name": "Aayush", "age": 22, "course": "MCA","teacherId": 2 },
+    { "id": 13, "name": "Shivansh", "age": 20, "course": "B Tech.","teacherId": 3 },
+    { "id": 14, "name": "Abhishek", "age": 22, "course": "MCA","teacherId": 4 },
+    { "id": 15, "name": "Sachin", "age": 21, "course": "MCA","teacherId": 5 },
+    { "id": 16, "name": "Rohit", "age": 21, "course": "B.Sc. CS","teacherId": 1 },
+    { "id": 17, "name": "Priya", "age": 22, "course": "B Tech.","teacherId": 2 },
+    { "id": 18, "name": "Simran", "age": 22, "course": "MCA","teacherId": 3 },
+    { "id": 19, "name": "Palak", "age": 21, "course": "B.Sc. CS","teacherId": 4 },
+    { "id": 20, "name": "Mahima", "age": 21, "course": "B Tech.","teacherId": 5 },
+    { "id": 21, "name": "Agastya", "age": 22, "course": "MCA","teacherId": 1 },
+    { "id": 22, "name": "Jennifer", "age": 20, "course": "B Tech.","teacherId": 2 },
+    { "id": 23, "name": "Amit", "age": 22, "course": "MCA","teacherId": 3 },
+    { "id": 24, "name": "Shobhit", "age": 22, "course": "MCA","teacherId": 4 },
+    { "id": 25, "name": "Gagan", "age": 20, "course": "B.Sc. CS","teacherId": 5 },
+    { "id": 26, "name": "Akansha", "age": 21, "course": "B Tech.","teacherId": 1 },
+    { "id": 27, "name": "Akshita", "age": 22, "course": "MCA","teacherId": 3 },
+    { "id": 28, "name": "Ashish", "age": 20, "course": "B.Sc. CS","teacherId": 2 },
+    { "id": 29, "name": "Himesh", "age": 21, "course": "B Tech.","teacherId": 4 },
+    { "id": 30, "name": "Mohit", "age": 22, "course": "MCA","teacherId": 5 }
+  ]
+ 
+}
